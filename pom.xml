@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.87.211.14:8081/repository/maven-releases/</url>
+	      <url>http://52.207.235.76:8081/repository/pipeline-job-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.87.211.14:8081/repository/maven-snapshots/</url>
+	      <url>http://52.207.235.76:8081/repository/pipeline-job-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
