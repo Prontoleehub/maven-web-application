@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.202.155.234:8081/repository/pipeline-job-releases/</url>
+	      <url>http://34.201.60.154:8081/repository/pipeline-job-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.202.155.234:8081/repository/pipeline-job-snapshots/</url>
+	      <url>http://34.201.60.154:8081/repository/pipeline-job-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
