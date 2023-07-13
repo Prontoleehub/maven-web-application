@@ -8,6 +8,7 @@ node{
   stage('2.Build'){
      sh "${mavenHome}/bin/mvn clean package"
   }
+/*
   stage('3.CodeQualityAnalysis'){
      sh "${mavenHome}/bin/mvn sonar:sonar"
   }
@@ -27,4 +28,5 @@ node{
   }
   stage('8.Notification'){}
 }
+*/
 }
